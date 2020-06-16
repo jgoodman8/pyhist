@@ -1,0 +1,2 @@
+class HistoryException(Exception):
+    pass
