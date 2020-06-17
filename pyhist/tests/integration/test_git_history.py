@@ -10,6 +10,8 @@ class TestGitHistory:
     def git(self):
         git_folder = ".git"
         os.system("git init")
+        os.system('git config --global user.email "test@test.com"')
+        os.system('git config --global user.name "Test"')
 
         yield
 

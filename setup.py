@@ -12,7 +12,7 @@ long_description = (
 
 setup(
     name="pyhist",
-    version="0.0.1",
+    version="0.0.3",
     author="Javier Guzman",
     author_email="jguzmanfd@gmail.com",
     description=description,

@@ -53,6 +53,8 @@ setup(
     @classmethod
     def setup_git(cls):
         os.system("git init")
+        os.system('git config --global user.email "test@test.com"')
+        os.system('git config --global user.name "Test"')
 
     @classmethod
     def teardown_git(cls):
