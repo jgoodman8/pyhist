@@ -51,7 +51,7 @@ pyhist --major
 
 # Installation
 
-> Pyhist requires **Python 3.6** or higher.
+> Pyhist requires **Python 3.7** or higher.
 
 ## From PyPI
 
