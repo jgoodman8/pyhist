@@ -8,7 +8,7 @@ with open(path.join(this_directory, "README.md"), encoding="utf-8") as f:
 
 setup(
     name="pyhist",
-    version="0.0.4",
+    version="0.0.5",
     author="Javier Guzman",
     author_email="jguzmanfd@gmail.com",
     long_description=long_description,
