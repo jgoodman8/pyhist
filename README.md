@@ -1,7 +1,7 @@
 <p align="center">
     <br>
     <a href="https://github.com/jgoodman8/pyhist">
-        <img src="assets/pyhist.png" alt="PyHist Logo" width="450"/>
+        <img src="https://raw.githubusercontent.com/jgoodman8/pyhist/master/assets/pyhist.png" alt="PyHist Logo" width="450"/>
     </a>
     <br>
 <p>
